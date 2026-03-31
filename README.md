@@ -160,9 +160,6 @@ Dicas para desenvolvedores
 - Estado global: [src/store/useAppStore.ts](src/store/useAppStore.ts).
 - Efeito nativo (vibrancy): [src-tauri/src/lib.rs](src-tauri/src/lib.rs).
 
-## Licença
-
-Este repositório não contém um arquivo `LICENSE`. Se pretende publicar em GitHub e permitir contribuições, adicione um arquivo de licença (por exemplo MIT, Apache-2.0, etc.).
 
 ## Agradecimentos
 
@@ -170,9 +167,3 @@ Este repositório não contém um arquivo `LICENSE`. Se pretende publicar em Git
 
 ---
 
-Se quiser, eu posso:
-- adicionar um LICENSE (sugira qual),
-- gerar um CHANGELOG básico,
-- ou abrir PRs com melhorias pontuais (ex.: suporte a "Cortar" no menu de contexto, cópia completa de binários, ou confirmação de sobrescrita ao colar).
-
-Quer que eu adicione algum desses pontos agora? 
